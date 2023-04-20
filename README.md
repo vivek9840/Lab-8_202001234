@@ -70,7 +70,7 @@ public int lengthInInches() {
 }
 ```
 
-## Run TEsts for all the TEST methods
+## Run Tests for all the TEST methods
 
 ![image](https://user-images.githubusercontent.com/75905959/233335138-f33e8177-ca84-4d4e-a0fb-9cca1b8a806a.png)
 
